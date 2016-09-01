@@ -1,6 +1,6 @@
 # svg-state-maps
 
-### This is the initial commit. Not much going on yet. 
+### In Progress
 
 Plot a single SVG marker for the state of Louisiana  using latitude and longitude coordinates.  
 
