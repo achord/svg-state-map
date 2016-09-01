@@ -2,4 +2,6 @@
 
 ### This is the initial commit. Not much going on yet. 
 
-This repo will eventually plot markers, via javascript, for all 50 U.S. States using latitude and longitude coordinates.  It utilizes javascript and SVG files instead of a map API.
+Plot a single SVG marker for the state of Louisiana  using latitude and longitude coordinates.  
+
+Multiple markers for contiguous US states can be found here : https://github.com/achord/SVG-US-MAP
